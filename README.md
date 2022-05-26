@@ -9,5 +9,3 @@ and returns the sum of every separate number in each string in the array.
   sum([“1", “five”, “2wenty”, “thr33”]) ➞ 36
   sum([[“1X2", “t3n”],[“1024", “5”, “64"]]) ➞ 1099
   sum([[[“1”], “10v3"], [“738h”], [[“s0"], [“1mu4ch3”],“-1s0"]]) ➞ 759
-  --
-  --
